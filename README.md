@@ -25,6 +25,10 @@ Explore and Customize: Feel free to explore the dashboard, customize visualizati
 
 Contributions: Contributions and improvements to the Adventure Works Power BI Dashboard are highly encouraged. If you have any suggestions, bug fixes, or additional features to propose, please create a new branch, make your changes, and submit a pull request.
 
+schem:
+![Screenshot 2024-05-11 180113](https://github.com/Bhavani876/Adventureworks-PowerBi-project/assets/122962752/3acac179-0403-4c71-89ec-4740205c1cb6)
+
+
 
 Adventureworks Dashboard:
 
